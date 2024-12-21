@@ -70,7 +70,7 @@ Chibonnatźi_ziriz
                           return img.src( for i, j,k in x[],y[]:
    def image_tracer(arguments):
         return  (x:[i]0Ay , y=[i]0Ay), (x:[j]0bb, y:[j]0bb), (x:[k]0àsccii-,ćC!, y:[k]0àsccii-,ćC,)])
-     image_tracer( console.log( image_tracer(user_request = 'search_request'.get_request1())))
+     image_tracer( console.log( image_tracer(user_request = 'search_request'.get_request(url))))
     
        Haven't even put up the 
        The code structure
