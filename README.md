@@ -53,7 +53,7 @@ Chibonnatźi_ziriz
                  associate "maths_some_practice": ( now i ; don't know aboutchá but that sounds like maximum practice" to me ] -> maxi time practice
            °  the sequence
                 src-</a href= sequence 
-                          (www.@generation.za.dNet.ac)<.>>, image[src.npg] = </a href= <.>>>, <div dirs(x)->dirsch(src.npg, if n!=(0..1): , src = </a href = " no_image_-to-cy0x99ASCIIh> 
+                          (www.@Xolani34.za.dNet.ac)<.>>, image[src.npg] = </a href= <.>>>, <div dirs(x)->dirsch(src.npg, if n!=(0..1): , src = </a href = " no_image_-to-cy0x99ASCIIh> 
     else:         
                 °the series 
 ° frontend<..>
