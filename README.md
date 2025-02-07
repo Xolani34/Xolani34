@@ -20,9 +20,9 @@ c++,java and JS,python, xml,ReAct.js.
                      : GitHub@Xolani34_repo
                      : (+27)608915330
  To discover more head over to
-                     : https://READmd.me
+                     : https://README.md
  and the ever construction site
-                     :https://@xolani34.zaNet.com
+                    https://@xolani34.zaNet.com
 
 
                       
