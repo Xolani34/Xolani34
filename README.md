@@ -15,14 +15,14 @@ c++,java and JS,python, xml,ReAct.js.
         web_based applications
 - 📫 How to reach me :
                    📩: sxovaman@gmail.com 
-                     : LinkedIn = 'https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav'
+              profile: LinkedIn = 'https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav'
                      : gitlab@Xolani34
                      : GitHub@Xolani34_repo
                      : (+27)608915330
  To discover more head over to
                      : https://README.md
  and the ever construction site
-                    https://@xolani34.zaNet.com
+                    blogsite= https://@xolani34.zaNet.com
 
 
                       
