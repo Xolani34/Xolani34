@@ -22,7 +22,7 @@ c++,java and JS,python, xml,ReAct.js.
  To discover more head over to
                      : https://README.md
  and the ever construction site
-                    blogsite= https://@xolani34.zaNet.com
+                    blogsite= https://w.w.w.@xolani34.zaNet.com
 
 
                       
